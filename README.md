@@ -33,11 +33,11 @@ ___
 Вычисляет десятичный логарифм | log(x)
 ___
 **Главное окно калькулятора**
-![](/images/main_window.png)
+* <img src="/images/main_window.png" alt="calc_1"/>
 **Кредитный калькулятор**
-![](/images/credit_window.png)
+* <img src="/images/credit_window.png" alt="calc_2" width="500"/>
 **Депозитный калькулятор**
-![](/images/deposit_window.png)
+* <img src="/images/deposit_window.png" alt="calc_3" width="500"/>
 ___
 **Установка калькулятора:** \
 Для установки выполните - `make install` \
